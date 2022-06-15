@@ -1,0 +1,85 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "TourismAdventuresContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Entity",
+   "ProjectRootNamespace": "TourimAdventures.Entity",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Activity]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ActivityTransaction]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[City]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Country]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Customer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Hotel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[HotelBooking]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[HotelReservationType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Place]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Program]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RoomReservationType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Trip]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TripProgramActivity]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "ALBADR-LAPTOP.TourismAdventures",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
